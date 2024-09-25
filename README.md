@@ -1,8 +1,6 @@
-# ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning
+# Agent-Active-Perception-concept-graph
 
-[**Project Page**](https://concept-graphs.github.io/) |
-[**Paper**](https://concept-graphs.github.io/assets/pdf/2023-ConceptGraphs.pdf) |
-[**ArXiv**](https://arxiv.org/abs/2309.16650) |
+[**Project Page**](https://github.com/zhangjie-tju/Agent-Active-Perception-concept-graph) |
 [**Video**](https://www.youtube.com/watch?v=mRhNkQwRYnc&feature=youtu.be&ab_channel=AliK)
 
 
