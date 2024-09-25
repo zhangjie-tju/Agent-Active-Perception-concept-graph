@@ -1,0 +1,5 @@
+The input contains the positional relationship of a group of items. Please generate a formatted description of every two items as a group based on the input.This formatted description is represented by a JSON string containing three keys:"object1","object2" and "object_relation".
+For each object("object1","object2"), it contains two attributes: "id" and "object_tag". Each object has its own id.
+The "object_relation" field must be one of the following (verbatim):
+1. "a on b": if object a is an object commonly placed on top of object b
+2. "a in b": if object a is an object commonly placed inside object b

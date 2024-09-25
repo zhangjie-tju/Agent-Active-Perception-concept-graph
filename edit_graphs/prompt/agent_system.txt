@@ -1,0 +1,2 @@
+Robots need to find target objects located near known objects based on their positions. 
+You need to find out which target object position the robot needs to move to based on the known object position relationship information, which is more likely to find the target object.

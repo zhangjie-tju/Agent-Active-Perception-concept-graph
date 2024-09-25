@@ -1,0 +1,4 @@
+input
+The positional relationship of items in the scene is as follows:An apple on a stack of books;A stack of books on a wooden table; Given the locations of the following items:a stack of books, a wooden table, the robot want to know the location of the apple and which item to look for nearby?
+output
+Based on the positional relationship between objects, the robot can find the position of an apple more accurately by searching near the position of a stack of books. So the answer is:'a stack of books'

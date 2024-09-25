@@ -1,0 +1,37 @@
+input:
+[
+    {
+    "object1": {
+        "id":1,
+        "object_tag": "apple"
+    },
+    "object2": {
+        "id":2,
+        "object_tag": "cabinet"
+    },
+    "object_relation": "a on b"
+    },
+    {
+    "object1": {
+        "id":3,
+        "object_tag": "a bottle of water"
+    },
+    "object2": {
+        "id":2,
+        "object_tag": "cabinet"
+    },
+    "object_relation": "a on b"
+    },
+    {
+    "object1": {
+        "id":4,
+        "object_tag": "a bunch of keys"
+    },
+    "object2": {
+        "id":2,
+        "object_tag": "cabinet"
+    },
+    "object_relation": "a in b"
+    }
+]
+output:
